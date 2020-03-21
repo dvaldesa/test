@@ -1,3 +1,6 @@
 # yendi
 
-Estamos apreniendo git
+Estamos apreniendo git con Maikel
+
+
+la jeringuilla
