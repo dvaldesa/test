@@ -3,7 +3,7 @@
 Estamos apreniendo git con Maikel
 
 
-la jeringuilla
+la jeringuilla atómica!
 
 
 # Desarrollo
